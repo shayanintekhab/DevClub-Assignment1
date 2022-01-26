@@ -1,0 +1,43 @@
+
+    .nav1{
+        background-color: black;
+    }
+    
+    .nav1 li a{
+        padding: 3px 3px;
+        text-decoration: none;
+        color: rgb(2, 0, 2);
+    }
+    .nav1 li{
+        float:left;
+        list-style: none;
+        margin: 5px 30px
+    }
+     p{
+        color:rgb(180, 140, 6)
+    }
+    h2{
+        color: rgb(226, 230, 16);
+        
+    }
+    h1{
+        color:rgb(88, 5, 84);
+        
+    }
+    .div1{
+        color: rgb(226, 230, 16);
+        background-color: rgb(143, 172, 14);
+    }
+    .div2{
+        background-color: rgb(207, 114, 250);
+    }
+    .div3{
+        background-color: turquoise;
+    }
+    .div4{
+        background-color: wheat;
+    }
+
+table, th, td {
+  border: 2px solid black;
+}
